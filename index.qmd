@@ -1,0 +1,23 @@
+---
+title: "Vishruth Veerendranath"
+from: markdown+emoji
+about:
+    template: solana
+    image: pic.jpg
+    # image-width: 15em
+    # image-shape: round
+    links:
+        - icon: mail
+          text: CMU email
+          href: mailto:vishruth@cmu.edu
+        - text: "{{< iconify academicons google-scholar >}}"  
+          href: https://scholar.google.com/citations?hl=en&authuser=2&user=Lg6yyBEAAAAJ 
+    
+---
+
+Hey there! :grinning: I am a master's student at Carnegie Mellon University's Language Technologies Institute (LTI) specializing in Machine Learning (ML) and Natural Language Processing (NLP). I did my undergrad in Computer Science at PES University, Bangalore, India.
+
+My research interests are Code Generation  
+
+
+This webpage is a Work in Progress! :construction:
