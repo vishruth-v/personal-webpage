@@ -1,5 +1,34 @@
 ---
 title: "Publications"
+from: markdown+emoji
 ---
 
-About this site
+### [XLDA: Linear Discriminant Analysis for Scaling Continual Learning to Extreme Classification at the Edge](https://arxiv.org/pdf/2307.11317.pdf)
+Karan Shah\*, **Vishruth Veerendranath**\*, Anushka Hebbar\*, Raghavendra Bhat                
+**ICML 2023** workshop on PAC-Bayes meets Interactive Learning
+
+### [Predictive Maneuver Planning with Deep Reinforcement Learning (PMP-DRL) for Comfortable and Safe Autonomous Driving](https://arxiv.org/pdf/2306.09055.pdf)
+Jayabrata Chowdhury, **Vishruth Veerendranath**, Suresh Sundaram, N Sundararajan             
+(arXiv Preprint) Paper Under Review at an IEEE Transactions Journal
+
+### [C3PO: A Lightweight Copying Mechanism for Translating Pseudocode to Code](https://aclanthology.org/2022.aacl-srw.7.pdf)
+**Vishruth Veerendranath**, Vibha Masti, Prajwal Anagani, Mamatha HR            
+**AACL-IJCNLP 2022** (Student Research Workshop)
+
+
+### [GraphCoReg: Co-Training for Regression on Temporal Graphs](https://openreview.net/pdf?id=JExuzizhS-p)
+**Authors:** Harshith Mohan Kumar, Vishruth Veerendranath, Vibha Masti, Divya Shekar, Bhaskarjyoti Das      
+**ECML-PKDD 2022**, 18th Mining and Learning with Graphs Workshop       
+:trophy: Best Student Paper Award
+
+### [Multivariate Covid-19 Forecasting with Vaccinations as a Factor: The Case of India and USA](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864476)
+Vibha Masti\*, **Vishruth Veerendranath**\*, Harshith Mohan Kumar\*         
+IEEE Region 10 Symposium (TENSYMP) 2022.        
+Also presented at **ICML 2022** workshop on Healthcare-AI and Covid-19
+
+### [A Comparative Study of Algorithms for Intelligent Traffic Signal Control](https://arxiv.org/pdf/2109.00937.pdf)
+H Chaudhuri\*, Vibha Masti\*, **Vishruth Veerendranath**\*, S Natarajan         
+ICMLAS 2021
+
+
+This webpage is a Work in Progress! :construction:

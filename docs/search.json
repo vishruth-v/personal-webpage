@@ -4,21 +4,42 @@
     "href": "index.html",
     "title": "Vishruth Veerendranath",
     "section": "",
-    "text": "Hey there! 😀 I am a master’s student at Carnegie Mellon University’s Language Technologies Institute (LTI) specializing in Machine Learning (ML) and Natural Language Processing (NLP). I did my undergrad in Computer Science at PES University, Bangalore, India.\nMy research interests are Code Generation\nThis webpage is a Work in Progress! 🚧"
+    "text": "CMU email\n  \n  \n     \n  \n\n      \nHey there, I’m Vish! 😀\nI am a master’s student at Carnegie Mellon University’s Language Technologies Institute (LTI) specializing in Machine Learning (ML) and Natural Language Processing (NLP).\nI’m currently working on 💻 Code Generation and improving efficiency of generated code, advised by Daniel Fried. I’m also interested in 🤖 Autonomous Digital Agents and Language Grounding.\nDuring my time at PES University (and internships at the Indian Institute of Science and Intel), I worked on projects in various domains of ML from Natural Language Processing, Reinforcement Learning, Graph ML, Continual Learning and Computer Vision.\nCheckout my 📃 Publications here!"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Vishruth Veerendranath",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\nCarnegie Mellon University\nMaster of Science in Intelligent Information Systems (MIIS) | Aug 2023 - May 2025\nPES University\nB.Tech in Computer Science and Engineering | Aug 2019 - May 2023\n\nThis webpage is a Work in Progress! 🚧"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Vishruth Veerendranath",
+    "section": "News",
+    "text": "News\n\nSeptember 2023: Started working with Daniel Fried, Zora Wang and Siddhanth Waghjale on Efficient Code Generation!\nAugust 2023: Moved to Pittsburgh and joined the MIIS program at CMU!\nJuly 2023: Work at Intel presented at ICML 2023 workshops on PAC-Bayes meets Interactive Learning\nJune 2023: Work at IISc up on arXiv PMP-DRL"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "About this site"
+    "text": "This webpage is a Work in Progress! 🚧"
+  },
+  {
+    "objectID": "experience.html#experience",
+    "href": "experience.html#experience",
+    "title": "Experience",
+    "section": "💼 Experience",
+    "text": "💼 Experience\n\nIntel Corporation\nMachine Learning Intern\nDec 2022 - Jul 2023\n📄 Checkout our ICML 2023 workshop paper XLDA\nIndian Institute of Science (IISc)\nResearch Intern\nJun 2022 - Aug 2022\n📄 Checkout our preprint for PMP-DRL\nMicrosoft\nStudent Developer Jun 2021 - Aug 2021"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "XLDA: Linear Discriminant Analysis for Scaling Continual Learning to Extreme Classification at the Edge\nKaran Shah*, Vishruth Veerendranath*, Anushka Hebbar*, Raghavendra Bhat\nICML 2023 workshop on PAC-Bayes meets Interactive Learning\n\n\nPredictive Maneuver Planning with Deep Reinforcement Learning (PMP-DRL) for Comfortable and Safe Autonomous Driving\nJayabrata Chowdhury, Vishruth Veerendranath, Suresh Sundaram, N Sundararajan\n(arXiv Preprint) Paper Under Review at an IEEE Transactions Journal\n\n\nC3PO: A Lightweight Copying Mechanism for Translating Pseudocode to Code\nVishruth Veerendranath, Vibha Masti, Prajwal Anagani, Mamatha HR\nAACL-IJCNLP 2022 (Student Research Workshop)\n\n\nGraphCoReg: Co-Training for Regression on Temporal Graphs\nAuthors: Harshith Mohan Kumar, Vishruth Veerendranath, Vibha Masti, Divya Shekar, Bhaskarjyoti Das\nECML-PKDD 2022, 18th Mining and Learning with Graphs Workshop\n🏆 Best Student Paper Award\n\n\nMultivariate Covid-19 Forecasting with Vaccinations as a Factor: The Case of India and USA\nVibha Masti*, Vishruth Veerendranath*, Harshith Mohan Kumar*\nIEEE Region 10 Symposium (TENSYMP) 2022.\nAlso presented at ICML 2022 workshop on Healthcare-AI and Covid-19\n\n\nA Comparative Study of Algorithms for Intelligent Traffic Signal Control\nH Chaudhuri*, Vibha Masti*, Vishruth Veerendranath*, S Natarajan\nICMLAS 2021\nThis webpage is a Work in Progress! 🚧"
   },
   {
     "objectID": "about.html",
@@ -26,5 +47,47 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "publications.html#predictive-maneuver-planning-with-deep-reinforcement-learning-pmp-drl-for-comfortable-and-safe-autonomous-driving",
+    "href": "publications.html#predictive-maneuver-planning-with-deep-reinforcement-learning-pmp-drl-for-comfortable-and-safe-autonomous-driving",
+    "title": "Publications",
+    "section": "",
+    "text": "Authors: J Chowdhury, V Veerendranath, S Sundaram, N Sundararajan Year: 2023 Source: Read Paper"
+  },
+  {
+    "objectID": "publications.html#xlda-linear-discriminant-analysis-for-scaling-continual-learning-to-extreme-classification-at-the-edge",
+    "href": "publications.html#xlda-linear-discriminant-analysis-for-scaling-continual-learning-to-extreme-classification-at-the-edge",
+    "title": "Publications",
+    "section": "XLDA: Linear Discriminant Analysis for Scaling Continual Learning to Extreme Classification at the Edge",
+    "text": "XLDA: Linear Discriminant Analysis for Scaling Continual Learning to Extreme Classification at the Edge\n Authors: K Shah, V Veerendranath, A Hebbar, R Bhat Year: 2023 Source: Read Paper"
+  },
+  {
+    "objectID": "publications.html#multivariate-covid-19-forecasting-with-vaccinations-as-a-factor-the-case-of-india-and-usa",
+    "href": "publications.html#multivariate-covid-19-forecasting-with-vaccinations-as-a-factor-the-case-of-india-and-usa",
+    "title": "Publications",
+    "section": "Multivariate Covid-19 Forecasting with Vaccinations as a Factor: The Case of India and USA",
+    "text": "Multivariate Covid-19 Forecasting with Vaccinations as a Factor: The Case of India and USA\n Authors: V Masti, V Veerendranath, HM Kumar Year: 2022 Conference: IEEE Region 10 Symposium (TENSYMP) Source: Read Paper"
+  },
+  {
+    "objectID": "publications.html#a-comparative-study-of-algorithms-for-intelligent-traffic-signal-control",
+    "href": "publications.html#a-comparative-study-of-algorithms-for-intelligent-traffic-signal-control",
+    "title": "Publications",
+    "section": "A Comparative Study of Algorithms for Intelligent Traffic Signal Control",
+    "text": "A Comparative Study of Algorithms for Intelligent Traffic Signal Control\n Authors: H Chaudhuri, V Masti, V Veerendranath, S Natarajan Year: 2022 Conference: ICMLAS 2021 Source: Read Paper"
+  },
+  {
+    "objectID": "publications.html#c3po-a-lightweight-copying-mechanism-for-translating-pseudocode-to-code",
+    "href": "publications.html#c3po-a-lightweight-copying-mechanism-for-translating-pseudocode-to-code",
+    "title": "Publications",
+    "section": "C3PO: A Lightweight Copying Mechanism for Translating Pseudocode to Code",
+    "text": "C3PO: A Lightweight Copying Mechanism for Translating Pseudocode to Code\n Authors: V Veerendranath, V Masti, P Anagani, M Hr Year: 2022 Conference: Asia-Pacific Chapter Conference Source: Read Paper"
+  },
+  {
+    "objectID": "publications.html#graphcoreg-co-training-for-regression-on-temporal-graphs",
+    "href": "publications.html#graphcoreg-co-training-for-regression-on-temporal-graphs",
+    "title": "Publications",
+    "section": "GraphCoReg: Co-Training for Regression on Temporal Graphs",
+    "text": "GraphCoReg: Co-Training for Regression on Temporal Graphs\n Authors: HM Kumar, V Veerendranath, V Masti, D Shekar, B Das Year: 2022 Conference: Mining and Learning with Graphs Source: Read Paper\nThis webpage is a Work in Progress! 🚧"
   }
 ]

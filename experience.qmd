@@ -1,0 +1,22 @@
+---
+title: "Experience"
+from: markdown+emoji
+---
+
+This webpage is a Work in Progress! :construction:
+
+
+## :briefcase: Experience
+- **Intel Corporation**         
+  Machine Learning Intern     
+  Dec 2022 - Jul 2023     
+  :page_facing_up: Checkout our ICML 2023 workshop paper [XLDA](https://arxiv.org/pdf/2307.11317.pdf)
+
+- **Indian Institute of Science (IISc)**        
+  Research Intern     
+  Jun 2022 - Aug 2022     
+  :page_facing_up: Checkout our preprint for [PMP-DRL](https://arxiv.org/pdf/2306.09055.pdf)
+
+- **Microsoft**             
+  Student Developer
+  Jun 2021 - Aug 2021     

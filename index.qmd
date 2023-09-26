@@ -4,6 +4,7 @@ from: markdown+emoji
 about:
     template: solana
     image: pic.jpg
+    id: vishruth
     # image-width: 15em
     # image-shape: round
     links:
@@ -15,9 +16,30 @@ about:
     
 ---
 
-Hey there! :grinning: I am a master's student at Carnegie Mellon University's Language Technologies Institute (LTI) specializing in Machine Learning (ML) and Natural Language Processing (NLP). I did my undergrad in Computer Science at PES University, Bangalore, India.
+:::{#vishruth}
 
-My research interests are Code Generation  
+Hey there, I'm Vish! :grinning:     
+I am a master's student at Carnegie Mellon University's Language Technologies Institute (LTI) specializing in Machine Learning (ML) and Natural Language Processing (NLP).
+
+I'm currently working on :computer: **Code Generation** and improving efficiency of generated code, advised by [Daniel Fried](https://dpfried.github.io). I'm also interested in :robot: Autonomous Digital Agents and Language Grounding.
+
+During my time at PES University (and internships at the Indian Institute of Science and Intel), I worked on projects in various domains of ML from Natural Language Processing, Reinforcement Learning, Graph ML, Continual Learning and Computer Vision.      
+
+Checkout my :page_with_curl: [Publications](publications.qmd) here!   
+:::
+
+## News
+- **September 2023**: Started working with [Daniel Fried](https://dpfried.github.io), [Zora Wang](https://zorazrw.github.io/) and Siddhanth Waghjale on Efficient Code Generation!
+- **August 2023**: Moved to Pittsburgh and joined the MIIS program at CMU!
+- **July 2023**: Work at Intel presented at **ICML 2023** workshops on [PAC-Bayes meets Interactive Learning](https://bguedj.github.io/icml2023-workshop/#six)
+- **June 2023**: Work at IISc up on arXiv [PMP-DRL](https://arxiv.org/pdf/2306.09055.pdf)
+
+## :mortar_board: Education 
+- **Carnegie Mellon University**    
+  Master of Science in Intelligent Information Systems (MIIS) | Aug 2023 - May 2025
+
+- **PES University**    
+  B.Tech in Computer Science and Engineering | Aug 2019 - May 2023
 
 
 This webpage is a Work in Progress! :construction:
