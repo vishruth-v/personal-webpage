@@ -3,9 +3,6 @@ title: "Experience"
 from: markdown+emoji
 ---
 
-This webpage is a Work in Progress! :construction:
-
-
 ## :briefcase: Experience
 - **Intel Corporation**         
   Machine Learning Intern     
