@@ -23,7 +23,7 @@ Karan Shah\*, **Vishruth Veerendranath**\*, Anushka Hebbar\*, Raghavendra Bhat
 **Predictive Maneuver Planning with Deep Reinforcement Learning (PMP-DRL) for Comfortable and Safe Autonomous Driving**         
 Jayabrata Chowdhury, **Vishruth Veerendranath**, Suresh Sundaram, N Sundararajan             
 *(arXiv Preprint) Paper Under Review*       
-<a href="https://arxiv.org/pdf/2306.09055.pdf" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://arxiv.org/pdf/2306.09055" type="button" class="btn btn-outline-primary btn-sm">paper</a>
 
 **C3PO: A Lightweight Copying Mechanism for Translating Pseudocode to Code**        
 **Vishruth Veerendranath**, Vibha Masti, Prajwal Anagani, Mamatha HR            
@@ -39,8 +39,8 @@ Harshith Mohan Kumar, **Vishruth Veerendranath**, Vibha Masti, Divya Shekar, Bha
 :trophy: Best Student Paper Award (Oral Paper)      
 <a href="https://openreview.net/forum?id=JExuzizhS-p" type="button" class="btn btn-outline-primary btn-sm">paper</a>
 <a href="https://github.com/Deep-Co-Training/GraphCoReg" type="button" class="btn btn-outline-primary btn-sm">code</a>
-<a href="https://github.com/Pseudocode-to-Code/C3PO" type="button" class="btn btn-outline-primary btn-sm">slides</a>
-<a href="https://github.com/Pseudocode-to-Code/C3PO" type="button" class="btn btn-outline-primary btn-sm">poster</a>
+<a href="https://github.com/Deep-Co-Training/GraphCoReg" type="button" class="btn btn-outline-primary btn-sm">slides</a>
+<a href="https://github.com/Deep-Co-Training/GraphCoReg" type="button" class="btn btn-outline-primary btn-sm">poster</a>
 
 **Multivariate Covid-19 Forecasting with Vaccinations as a Factor: The Case of India and USA**      
 Vibha Masti\*, **Vishruth Veerendranath**\*, Harshith Mohan Kumar\*         
@@ -57,7 +57,7 @@ Hrishit Chaudhuri\*, Vibha Masti\*, **Vishruth Veerendranath**\*, S Natarajan
 ICMLAS 2021     
 <a href="https://arxiv.org/abs/2109.00937" type="button" class="btn btn-outline-primary btn-sm">paper</a>
 <a href="https://github.com/intelligent-traffic-signal/mini-proj-traffic" type="button" class="btn btn-outline-primary btn-sm">code</a>
-<a href="./publication_assets/ICMLAS Presentation.pdf" type="button" class="btn btn-outline-primary btn-sm">slides</a>
+<a href="publication_assets/ICMLAS Presentation.pdf" type="button" class="btn btn-outline-primary btn-sm">slides</a>
 
 
-This webpage is a Work in Progress! :construction:
+

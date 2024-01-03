@@ -10,7 +10,7 @@ about:
     links:
         - icon: envelope-fill
           text: vishruth at cmu dot edu
-          href: mailto:vishruth@cmu.edu
+          # href: mailto:vishruth@cmu.edu
         # - text: "{{< iconify academicons google-scholar >}}"  
 
         - icon: mortarboard-fill
@@ -45,12 +45,9 @@ Checkout my :page_with_curl: [Publications](publications.qmd) here!
 - **July 2023**: Work at Intel presented at **ICML 2023** workshops on [PAC-Bayes meets Interactive Learning](https://bguedj.github.io/icml2023-workshop/#six)
 - **June 2023**: Work at IISc up on arXiv [PMP-DRL](https://arxiv.org/pdf/2306.09055.pdf)
 
-<!-- ## :mortar_board: Education 
+## :mortar_board: Education 
 - **Carnegie Mellon University**    
   Master of Science in Intelligent Information Systems (MIIS) | Aug 2023 - May 2025
 
 - **PES University**    
-  B.Tech in Computer Science and Engineering | Aug 2019 - May 2023 -->
-
-
-This webpage is a Work in Progress! :construction:
+  B.Tech in Computer Science and Engineering | Aug 2019 - May 2023

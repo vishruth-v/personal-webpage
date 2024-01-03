@@ -4,11 +4,14 @@ project:
 
 website:
   title: "Vishruth Veerendranath"
+  favicon: profile.png
   navbar:
     background: primary
     right:
       - publications.qmd
       - experience.qmd
+      - text: Resume
+        href: Resume_Vishruth.pdf
 
 format:
   html:
