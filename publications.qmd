@@ -3,32 +3,61 @@ title: "Publications"
 from: markdown+emoji
 ---
 
-### [XLDA: Linear Discriminant Analysis for Scaling Continual Learning to Extreme Classification at the Edge](https://arxiv.org/pdf/2307.11317.pdf)
+For an updated list of publications and citations checkout my [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=Lg6yyBEAAAAJ)
+
+**ScripTONES: Sentiment-Conditioned Music Generation for Movie Scripts** \
+**Vishruth Veerendranath**, Vibha Masti, Utkarsh Gupta, Hrishit Chaudhuri, Gowri Srinivasa \
+*AIML Systems 2023 - Gen AI* \
+Also presented at ***NeurIPS 2023** - Machine Learning for Audio Workshop*      
+<a href="https://mlforaudioworkshop.com/ScripTONES.pdf" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="posters/ScripTONES.pdf" type="button" class="btn btn-outline-primary btn-sm">poster</a>
+<a href="https://torpid-okra-923.notion.site/ScripTONES-Sentiment-Conditioned-Music-Generation-for-Movie-Scripts-fb7038d68112435ea120af2bb7cc64b0" type="button" class="btn btn-outline-primary btn-sm">website</a>
+
+**XLDA: Linear Discriminant Analysis for Scaling Continual Learning to Extreme Classification at the Edge**  \     
 Karan Shah\*, **Vishruth Veerendranath**\*, Anushka Hebbar\*, Raghavendra Bhat                
-**ICML 2023** workshop on PAC-Bayes meets Interactive Learning
+***ICML 2023** workshop on PAC-Bayes meets Interactive Learning*            
+<a href="https://arxiv.org/pdf/2307.11317.pdf" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://icml.cc/media/PosterPDFs/ICML%202023/25734.png?t=1690168196.9931436" type="button" class="btn btn-outline-primary btn-sm">poster</a>
+<a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-Presents-Six-Papers-on-Novel-AI-Research-at-ICML-2023/post/1507163" type="button" class="btn btn-outline-primary btn-sm">intel blog</a>
 
-### [Predictive Maneuver Planning with Deep Reinforcement Learning (PMP-DRL) for Comfortable and Safe Autonomous Driving](https://arxiv.org/pdf/2306.09055.pdf)
+**Predictive Maneuver Planning with Deep Reinforcement Learning (PMP-DRL) for Comfortable and Safe Autonomous Driving**         
 Jayabrata Chowdhury, **Vishruth Veerendranath**, Suresh Sundaram, N Sundararajan             
-(arXiv Preprint) Paper Under Review at an IEEE Transactions Journal
+*(arXiv Preprint) Paper Under Review*       
+<a href="https://arxiv.org/pdf/2306.09055.pdf" type="button" class="btn btn-outline-primary btn-sm">paper</a>
 
-### [C3PO: A Lightweight Copying Mechanism for Translating Pseudocode to Code](https://aclanthology.org/2022.aacl-srw.7.pdf)
+**C3PO: A Lightweight Copying Mechanism for Translating Pseudocode to Code**        
 **Vishruth Veerendranath**, Vibha Masti, Prajwal Anagani, Mamatha HR            
-**AACL-IJCNLP 2022** (Student Research Workshop)
+***AACL-IJCNLP 2022** (Student Research Workshop)*        
+<a href="https://aclanthology.org/2022.aacl-srw.7" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://github.com/Pseudocode-to-Code/C3PO" type="button" class="btn btn-outline-primary btn-sm">code</a>
+<a href="https://github.com/Pseudocode-to-Code/C3PO" type="button" class="btn btn-outline-primary btn-sm">slides</a>
+<a href="https://underline.io/lecture/64860-c3po-a-lightweight-copying-mechanism-for-translating-pseudocode-to-code" type="button" class="btn btn-outline-primary btn-sm">video</a>
 
+**GraphCoReg: Co-Training for Regression on Temporal Graphs**       
+Harshith Mohan Kumar, **Vishruth Veerendranath**, Vibha Masti, Divya Shekar, Bhaskarjyoti Das           
+***ECML-PKDD 2022**, 18th Mining and Learning with Graphs Workshop*              
+:trophy: Best Student Paper Award (Oral Paper)      
+<a href="https://openreview.net/forum?id=JExuzizhS-p" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://github.com/Deep-Co-Training/GraphCoReg" type="button" class="btn btn-outline-primary btn-sm">code</a>
+<a href="https://github.com/Pseudocode-to-Code/C3PO" type="button" class="btn btn-outline-primary btn-sm">slides</a>
+<a href="https://github.com/Pseudocode-to-Code/C3PO" type="button" class="btn btn-outline-primary btn-sm">poster</a>
 
-### [GraphCoReg: Co-Training for Regression on Temporal Graphs](https://openreview.net/pdf?id=JExuzizhS-p)
-**Authors:** Harshith Mohan Kumar, Vishruth Veerendranath, Vibha Masti, Divya Shekar, Bhaskarjyoti Das      
-**ECML-PKDD 2022**, 18th Mining and Learning with Graphs Workshop       
-:trophy: Best Student Paper Award
-
-### [Multivariate Covid-19 Forecasting with Vaccinations as a Factor: The Case of India and USA](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864476)
+**Multivariate Covid-19 Forecasting with Vaccinations as a Factor: The Case of India and USA**      
 Vibha Masti\*, **Vishruth Veerendranath**\*, Harshith Mohan Kumar\*         
 IEEE Region 10 Symposium (TENSYMP) 2022.        
-Also presented at **ICML 2022** workshop on Healthcare-AI and Covid-19
+Also presented at **ICML 2022** workshop on Healthcare-AI and Covid-19      
+<a href="https://ieeexplore.ieee.org/document/9864476" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://github.com/Data-Analytics-Project-2021/covid19-prediction" type="button" class="btn btn-outline-primary btn-sm">code</a>
+<a href="https://github.com/Data-Analytics-Project-2021/covid19-prediction" type="button" class="btn btn-outline-primary btn-sm">slides</a>
 
-### [A Comparative Study of Algorithms for Intelligent Traffic Signal Control](https://arxiv.org/pdf/2109.00937.pdf)
-H Chaudhuri\*, Vibha Masti\*, **Vishruth Veerendranath**\*, S Natarajan         
-ICMLAS 2021
+
+
+**A Comparative Study of Algorithms for Intelligent Traffic Signal Control**        
+Hrishit Chaudhuri\*, Vibha Masti\*, **Vishruth Veerendranath**\*, S Natarajan         
+ICMLAS 2021     
+<a href="https://arxiv.org/abs/2109.00937" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://github.com/intelligent-traffic-signal/mini-proj-traffic" type="button" class="btn btn-outline-primary btn-sm">code</a>
+<a href="./publication_assets/ICMLAS Presentation.pdf" type="button" class="btn btn-outline-primary btn-sm">slides</a>
 
 
 This webpage is a Work in Progress! :construction:
