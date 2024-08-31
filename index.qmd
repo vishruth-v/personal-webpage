@@ -3,7 +3,7 @@ title: "Vishruth Veerendranath"
 from: markdown+emoji
 about:
     template: solana
-    image: pic.jpg
+    image: pic_new.jpg
     id: vishruth
     # image-width: 15em
     image-shape: round
