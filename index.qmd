@@ -28,7 +28,7 @@ about:
 Hey there, I'm Vish! :grinning:     
 I am a master's student at Carnegie Mellon University's Language Technologies Institute (LTI) specializing in Machine Learning (ML) and Natural Language Processing (NLP).
 
-I'm currently interested in exploring the reasoning abilities of language models, from commonsense reasoning :brain: , programming :computer: , or decison-making/agentic behaviour :robot:, and ways to improve the same either with language-grounded interaction (agents), verifiable feedback (execution) and interventions on training data (data filtering and synthetic data). 
+I'm currently interested in exploring the reasoning abilities of language models, from commonsense reasoning :brain: , programming :computer: , or decison-making/agentic behaviour :robot:, and ways to improve the same either with language-grounded interaction (agents), verifiable feedback (execution) and interventions on training data (data filtering and synthetic data). I'm additionally also interested in making ML more efficient and accessible!
 
 During my undergrad years at PES University, Indian Institute of Science and Intel, I worked on projects in various domains of ML from Natural Language Processing, Reinforcement Learning, Graph ML, Continual Learning and Computer Vision.      
 
