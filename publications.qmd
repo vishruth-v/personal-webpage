@@ -5,6 +5,19 @@ from: markdown+emoji
 
 For an updated list of publications and citations checkout my [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=Lg6yyBEAAAAJ)
 
+**ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?** \
+Siddhant Waghjale\*, **Vishruth Veerendranath**\*, Zora Zhiruo Wang, Daniel Fried \
+*Pre-print (Under review)* \
+<a href="https://arxiv.org/abs/2407.14044" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://ecco-code-eff.github.io/" type="button" class="btn btn-outline-primary btn-sm">website</a>
+
+**Pre-Calc: Learning to Use the Calculator Improves Numeracy in Language Models** \
+**Vishruth Veerendranath**, Vishwa Shah, Kshitish Ghate \
+*AIForMath worksshop at **ICML 2024*** \
+Also presented at *SemEval @ NAACL 2024*      
+<a href="https://arxiv.org/abs/2404.14355" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://icml.cc/media/PosterPDFs/ICML%202024/38047.png?t=1721009420.9459107" type="button" class="btn btn-outline-primary btn-sm">poster</a>
+
 **ScripTONES: Sentiment-Conditioned Music Generation for Movie Scripts** \
 **Vishruth Veerendranath**, Vibha Masti, Utkarsh Gupta, Hrishit Chaudhuri, Gowri Srinivasa \
 *AIML Systems 2023 - Gen AI* \

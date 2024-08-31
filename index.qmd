@@ -28,9 +28,7 @@ about:
 Hey there, I'm Vish! :grinning:     
 I am a master's student at Carnegie Mellon University's Language Technologies Institute (LTI) specializing in Machine Learning (ML) and Natural Language Processing (NLP).
 
-I'm broadly interested in exploring the abilities that emerge out of language-grounded exploration in interactive settings. This could either be commonsense reasoning :brain: , programming :computer: , or decison-making/agentic behaviour :robot:
-
-I'm currently working on Code Generation :computer:, and improving efficiency of generated code in an interactive setting, advised by [Daniel Fried](https://dpfried.github.io). 
+I'm currently interested in exploring the reasoning abilities of language models, from commonsense reasoning :brain: , programming :computer: , or decison-making/agentic behaviour :robot:, and ways to improve the same either with language-grounded interaction (agents), verifiable feedback (execution) and interventions on training data (data filtering and synthetic data). 
 
 During my undergrad years at PES University, Indian Institute of Science and Intel, I worked on projects in various domains of ML from Natural Language Processing, Reinforcement Learning, Graph ML, Continual Learning and Computer Vision.      
 
@@ -38,9 +36,12 @@ Checkout my :page_with_curl: [Publications](publications.qmd) here!
 :::
 
 ## News
+- **July 2024**: [ECCO](https://arxiv.org/abs/2407.14044) out on ArXiv!
+- **July 2024**: [Pre-Calc](https://arxiv.org/abs/2404.14355) presented at [AIForMath](https://sites.google.com/view/ai4mathworkshopicml2024) @ **ICML 2024**
+- **May 2024**: Interning at [DatologyAI](https://www.datologyai.com/) over the summer working on data quality filtering for LLM pretraining
+- **April 2024**: [Pre-Calc](https://arxiv.org/abs/2404.14355) out on ArXiv!
 - **December 2023**: Attended **NeurIPS 2023** and presented [ScripTONES](https://mlforaudioworkshop.com/ScripTONES.pdf) at the [MLForAudio]((https://mlforaudioworkshop.com/)) workshop!
-- **October 2023**: [ScripTONES](https://mlforaudioworkshop.com/ScripTONES.pdf) presented at [AIMLSystems-GenAI](https://www.aimlsystems.org/2023/workshop-genai/) and accepeted as a poster at the [MLForAudio](https://mlforaudioworkshop.com/) @ NeurIPS 2023!
-- **September 2023**: Started working with [Daniel Fried](https://dpfried.github.io), [Zora Wang](https://zorazrw.github.io/) and Siddhanth Waghjale on Efficient Code Generation!
+- **October 2023**: [ScripTONES](https://mlforaudioworkshop.com/ScripTONES.pdf) presented at [AIMLSystems-GenAI](https://www.aimlsystems.org/2023/workshop-genai/)
 - **August 2023**: Moved to Pittsburgh and joined the MIIS program at CMU!
 - **July 2023**: Work at Intel presented at **ICML 2023** workshops on [PAC-Bayes meets Interactive Learning](https://bguedj.github.io/icml2023-workshop/#six)
 - **June 2023**: Work at IISc up on arXiv [PMP-DRL](https://arxiv.org/pdf/2306.09055.pdf)
