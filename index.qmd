@@ -1,11 +1,12 @@
 ---
 title: "Vishruth Veerendranath"
 from: markdown+emoji
+image: pic_new.jpg
 about:
     template: solana
     image: pic_new.jpg
     id: vishruth
-    # image-width: 15em
+    image-width: 15em
     image-shape: round
     links:
         - icon: envelope-fill
@@ -37,19 +38,17 @@ Checkout my :page_with_curl: [Publications](publications.qmd) here!
 :::
 
 ## News
+- **September 2024**: [ECCO](https://arxiv.org/abs/2407.14044) accepted to EMNLP 2024. See you in Miami!
 - **July 2024**: [ECCO](https://arxiv.org/abs/2407.14044) out on ArXiv!
 - **July 2024**: [Pre-Calc](https://arxiv.org/abs/2404.14355) presented at [AIForMath](https://sites.google.com/view/ai4mathworkshopicml2024) @ **ICML 2024**
-- **May 2024**: Interning at [DatologyAI](https://www.datologyai.com/) over the summer working on data quality filtering for LLM pretraining
-- **April 2024**: [Pre-Calc](https://arxiv.org/abs/2404.14355) out on ArXiv!
 - **December 2023**: Attended **NeurIPS 2023** and presented [ScripTONES](https://mlforaudioworkshop.com/ScripTONES.pdf) at the [MLForAudio]((https://mlforaudioworkshop.com/)) workshop!
 - **October 2023**: [ScripTONES](https://mlforaudioworkshop.com/ScripTONES.pdf) presented at [AIMLSystems-GenAI](https://www.aimlsystems.org/2023/workshop-genai/)
-- **August 2023**: Moved to Pittsburgh and joined the MIIS program at CMU!
 - **July 2023**: Work at Intel presented at **ICML 2023** workshops on [PAC-Bayes meets Interactive Learning](https://bguedj.github.io/icml2023-workshop/#six)
 - **June 2023**: Work at IISc up on arXiv [PMP-DRL](https://arxiv.org/pdf/2306.09055.pdf)
 
 ## :mortar_board: Education 
 - **Carnegie Mellon University**    
-  Master of Science in Intelligent Information Systems (MIIS) | Aug 2023 - May 2025
+  Master of Science in Intelligent Information Systems (MIIS) | Aug 2023 - Dec 2024
 
 - **PES University**    
   B.Tech in Computer Science and Engineering | Aug 2019 - May 2023

@@ -7,7 +7,7 @@ For an updated list of publications and citations checkout my [Google Scholar](h
 
 **ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?** \
 Siddhant Waghjale\*, **Vishruth Veerendranath**\*, Zora Zhiruo Wang, Daniel Fried \
-*Pre-print (Under review)* \
+**EMNLP 2024 (Main)** \
 <a href="https://arxiv.org/abs/2407.14044" type="button" class="btn btn-outline-primary btn-sm">paper</a>
 <a href="https://ecco-code-eff.github.io/" type="button" class="btn btn-outline-primary btn-sm">website</a>
 
